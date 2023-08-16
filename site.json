@@ -1,5 +1,8 @@
 {
-  "siteId": 239,
-  "namespace": "deco-sites/fashion",
-  "imports": ["$live/live.gen.ts", "deco-sites/std/live.gen.ts"]
+  "siteId": 2133,
+  "namespace": "deco-sites/barbonistore",
+  "imports": [
+    "$live/live.gen.ts",
+    "deco-sites/std/live.gen.ts"
+  ]
 }
